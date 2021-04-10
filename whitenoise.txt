@@ -1,0 +1,1 @@
+'whitenoise.middleware.WhiteNoiseMiddleware',
